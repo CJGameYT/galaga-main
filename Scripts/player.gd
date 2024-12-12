@@ -1,6 +1,6 @@
 extends Area2D
 
-@export var speed: int = 150
+@export var speed: int = 100
 @export var cooldown: float = 0.1
 @export var laser_scene: PackedScene
 
